@@ -460,7 +460,6 @@ section h3.section-subheading {
     border-radius: 100%;
     text-align: center;
     color: #fff;
-    background-color: #fed136;
 }
 
 .timeline>li .timeline-image h4 {
@@ -684,8 +683,10 @@ section#contact .text-danger {
 }
 
 footer {
+    border-top: 1px solid rgba(0,0,0,0.1);
     padding: 25px 0;
     text-align: center;
+    background-color: #bbb;
 }
 
 footer span.copyright {
